@@ -1,0 +1,2 @@
+# RemoveRedundantRecursiveNode
+removes redundant nodes
